@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="D:\Java projects\Tree234"/>
+		<item value="D:\Java projects\StringParser"/>
+		<item value="D:\Java projects\StackApp"/>
+		<item value="D:\Java projects\ShellSortApp"/>
+		<item value="D:\Java projects\SeperateChaining"/>
+		<item value="D:\Java projects\RecursivePower"/>
+		<item value="D:\Java projects\QueueApp"/>
+		<item value="D:\Java projects\PriorityQueueApp"/>
+		<item value="D:\Java projects\PartitioningApp"/>
+		<item value="D:\Java projects\OrderedListApp"/>
+		<item value="D:\Java projects\NetBeansProjects\SelectionSortApp"/>
+		<item value="D:\Java projects\MergeSort"/>
+		<item value="D:\Java projects\ListIterator"/>
+		<item value="D:\Java projects\LinkedListApp"/>
+		<item value="D:\Java projects\KnapsackProblem1"/>
+		<item value="D:\Java projects\Iteration1"/>
+		<item value="D:\Java projects\InsertSort"/>
+		<item value="D:\Java projects\InsertionSortApp"/>
+		<item value="D:\Java projects\HuffmanTree"/>
+		<item value="D:\Java projects\HashTable"/>
+		<item value="D:\Java projects\FirstLastList"/>
+		<item value="D:\Java projects\DoubleLinkedList"/>
+		<item value="D:\Java projects\Data"/>
+		<item value="D:\Java projects"/>
+		<item value="D:\Java projects\BinaryTree"/>
+		<item value="D:\Java projects\AnagramApp"/>
+		<item value="C:\Users\Omar\Desktop\Java projects"/>
+		<item value="F:\Java projects"/>
+	</list>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="498" key="DIALOG_X_ORIGIN"/>
+		<item value="251" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
